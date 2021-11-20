@@ -1,7 +1,7 @@
 Bellabeat analysis - Case study
 ================
 
-## How Can a Wellness Technology Company Play It Smart?
+## How Can a Wellness Technology Company Play It Smart ?
 
 ## Introduction
 
